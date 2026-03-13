@@ -1,6 +1,6 @@
 # Python_Sales_Project
-Sales Data Analytics (E-commerce Case Study)
-
+**Sales Data Analytics (E-commerce Case Study)
+**
 1.. What is Feather & how to read data from data !
 Feather is a binary file format that is used for storing data ..
 
